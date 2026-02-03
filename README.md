@@ -5,4 +5,4 @@
 ### 🔗 ลิงก์สำหรับเข้าใช้งาน (สำรอง)
 [![Open in Streamlit]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg](https://colorsense-ai-2sluggs7cqezpgdwhcv2qy.streamlit.app/))](https://colorsense-ai.streamlit.app/)
 
----
+
